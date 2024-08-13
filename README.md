@@ -24,22 +24,3 @@
 <a href="https://fb.com/gsaha.jit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gsaha.jit" height="30" width="40" /></a>
 <a href="https://instagram.com/gairick.saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gairick.saha" height="30" width="40" /></a>
 </p>
-
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marsdevs-gairick-saha&show_icons=true&locale=en&layout=compact" alt="Gairick Saha" />
-</p>
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marsdevs-gairick-saha&show_icons=true&locale=en" alt="Gairick Saha" />
-</p>
-
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?marsdevs-gairick-saha&" alt="Gairick Saha" />
-  
-</p>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img align = "center" src="https://github-profile-trophy.vercel.app/?username=marsdevs-gairick-saha" alt="Gairick Saha" />
-  </a> 
-</p>

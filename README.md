@@ -5,7 +5,7 @@
 
 <p >
   <a align="left" href="https://twitter.com/gairick_saha" target="blank"><img src="https://img.shields.io/twitter/follow/gairick_saha?logo=twitter&style=for-the-badge" alt="gairick_saha" /></a>
-  <img align="right" src="https://komarev.com/ghpvc/?username=gairick-saha&label=Profile%20views&color=0e75b6&style=flat" alt="gairick-saha" /> 
+  <a align="left" href="https://github.com/gairick-saha" target="blank"><img align="right" src="https://komarev.com/ghpvc/?username=marsdevs-gairick-saha&label=Profile%20views&color=0e75b6&style=flat" alt="gairick-saha" /></a>
 </p>
 
 

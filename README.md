@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Node.JS, TypeScript, Strapi, MongoDB, GraphQL, WebRTC**
 
-- 📫 How to reach me **gairicksaha@gmail.com** || **gairick.saha@marsdevs.com**
+- 📫 How to reach me **gairicksaha@gmail.com** | **gairick.saha@marsdevs.com**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">

@@ -1,5 +1,7 @@
+<center> <img align="center" src="https://www.google.com/u/2/ac/images/logo.gif?uid=115119925603540354080&service=google_gsuite" width=150/></center>
+
 <h1 align="center">Hi 👋, I'm Gairick Saha</h1>
-<h3 align="center">A passionate flutter developer from India :india: </h3>
+<h3 align="center">A passionate flutter developer from India working For <a href="https://www.marsdevs.com/">MarsDevs</a></h3>
 
 <p >
   <a align="left" href="https://twitter.com/gairick_saha" target="blank"><img src="https://img.shields.io/twitter/follow/gairick_saha?logo=twitter&style=for-the-badge" alt="gairick_saha" /></a>
@@ -8,15 +10,14 @@
 
 
 
-- 🔭 I’m currently working with **Flutter, NodeJS, Python**
+- 🔭 I’m currently working with **Flutter, RestAPI**
 
-- 🌱 I’m currently learning **React & Elixir**
+- 🌱 I’m currently learning **Node.JS, TypeScript, Strapi, MongoDB, GraphQL, WebRTC**
 
 - 📫 How to reach me **gairicksaha@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://twitter.com/gairick_saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gairick_saha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gairick-s-3a276993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gairick-s-3a276993" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10210042/gairick-saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10210042/gairick-saha" height="30" width="40" /></a>
 <a href="https://fb.com/gsaha.jit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gsaha.jit" height="30" width="40" /></a>
@@ -41,6 +42,3 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img align = "center" src="https://github-profile-trophy.vercel.app/?username=gairick-saha" alt="gairick-saha" />
   </a> 
 </p>
-
-
-

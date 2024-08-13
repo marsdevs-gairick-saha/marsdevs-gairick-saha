@@ -27,19 +27,19 @@
 
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marsdevs-gairick-saha&show_icons=true&locale=en&layout=compact" alt="gairick-saha" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marsdevs-gairick-saha&show_icons=true&locale=en&layout=compact" alt="Gairick Saha" />
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marsdevs-gairick-saha&show_icons=true&locale=en" alt="gairick-saha" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marsdevs-gairick-saha&show_icons=true&locale=en" alt="Gairick Saha" />
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?marsdevs-gairick-saha&" alt="gairick-saha" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?marsdevs-gairick-saha&" alt="Gairick Saha" />
   
 </p>
 
 <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img align = "center" src="https://github-profile-trophy.vercel.app/?username=marsdevs-gairick-saha" alt="gairick-saha" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img align = "center" src="https://github-profile-trophy.vercel.app/?username=marsdevs-gairick-saha" alt="Gairick Saha" />
   </a> 
 </p>

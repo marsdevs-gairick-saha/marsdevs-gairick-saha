@@ -1,4 +1,4 @@
-<img align="center" src="https://www.google.com/u/2/ac/images/logo.gif?uid=115119925603540354080&service=google_gsuite" width=150 height=80/>
+<img align="center" src="https://www.google.com/u/2/ac/images/logo.gif?uid=115119925603540354080&service=google_gsuite" width=180 height=80/>
 
 <h1 align="center">Hi 👋, I'm Gairick Saha</h1>
 <h3 align="center">A passionate flutter developer from India working For <a href="https://www.marsdevs.com/">MarsDevs</a></h3>

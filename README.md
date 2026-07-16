@@ -24,7 +24,7 @@ Full-stack engineer with **5+ years** building and shipping production mobile an
 - 🧩 I maintain several **open-source Flutter packages** published on [pub.dev](https://pub.dev/publishers/gairicksaha.com/packages)
 - 🛠️ Comfortable across the full delivery lifecycle — REST & GraphQL API design, data modeling, AWS deployment, and CI/CD automation
 - 🌱 Deepening my work with **Elixir/Phoenix LiveView** and computer vision with **OpenCV**
-- 📫 Reach me at **gairicksaha@gmail.com**
+- 📫 Reach me at **gairick.saha@marsdevs.com**
 
 ---
 
